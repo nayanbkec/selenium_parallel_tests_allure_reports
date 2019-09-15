@@ -1,0 +1,1 @@
+parallel tests with allure reporting, screenshots and other attachments
